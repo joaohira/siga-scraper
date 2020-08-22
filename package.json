@@ -1,0 +1,28 @@
+{
+  "name": "siga-scraper",
+  "version": "1.0.0",
+  "description": "A basic scraper for SIGA (UFSCar's course management system) course curriculums.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaohira/siga-scraper.git"
+  },
+  "keywords": [
+    "grade",
+    "curricular"
+  ],
+  "author": "João Hirasawa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/joaohira/siga-scraper/issues"
+  },
+  "homepage": "https://github.com/joaohira/siga-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {}
+}
