@@ -1,0 +1,1676 @@
+{
+  "codigos": {
+    "1": [82210, 1001350, 81116, 1001349, 1001351],
+    "2": [80136, 1001502, 89206, 99015, 91103, 1001507, 1001539],
+    "3": [1001490, 1001540, 89303, 99031, 91111, 1001344, 89400],
+    "4": [1001541, 83020, 1001352, 1001530, 150010, 1001525, 1001347],
+    "5": [1001533, 1001348, 1001487, 1001486, 1001535],
+    "6": [1001493, 1001528, 1001534, 1001545, 1001336],
+    "7": [1001537, 1001538, 1001504, 1001503, 1001505],
+    "8": [1001508, 1001343, 1001346, 1001483, 1001369],
+    "9": [1001506],
+    "10": [1001509, 1001485]
+  },
+  "semestres": {
+    "27090": {
+      "nome": "EMPREENDEDORES EM INFORMÁTICA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": "27499"
+      }
+    },
+    "80136": {
+      "nome": "ÁLGEBRA LINEAR 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "3",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "81116 OU (215279 E 215384) OU 343510 OU 342017 OU 342190 OU 81515 OU 345083 OU 345970 OU 524182",
+        "corequisitos": "",
+        "dispensa": "343145 OU 215201",
+        "equivalencia": "(80039 OU 80535)"
+      }
+    },
+    "81116": {
+      "nome": "GEOMETRIA ANALÍTICA",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "3",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "342017 OU 524182 OU 342190 OU 343510 OU 349623 OU 345083 OU 345970 OU (215279 E (215384 OU 215201)) OU 524204",
+        "equivalencia": "81019 OU 81515"
+      }
+    },
+    "82210": {
+      "nome": "CÁLCULO DIFERENCIAL E INTEGRAL 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "5",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "89109 E (89206 OU 82260 OU (215538 E 210056) OU 342076 OU 342220)",
+        "equivalencia": "82015 OU (82619 E 82627)"
+      }
+    },
+    "83020": {
+      "nome": "CÁLCULO NUMÉRICO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "3",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(82210 OU 89109 OU 524034 OU 82015 OU 344001 OU 342009 OU 342211 OU 340456 OU (82619 E 82627) OU (215171 E 215287)) E (81116 OU 524182 OU 345970 OU 81019 OU 81515 OU 342017 OU 342190 OU 343510 OU 345083) E (20320 OU 20109 OU 20168 OU 25070 OU 1001350 OU ((481114 OU 343323) E 481220) OU 20184 OU 20125 OU 25011 OU 25054 OU 92410 OU 20583 OU 105180 OU 343137 OU 342068 OU 25470 OU 25488 OU 430048 OU 580015 OU 580287 OU 92410) OU 345970",
+        "corequisitos": "",
+        "dispensa": "((92410 OU 20168) E (92444)) OU 83429",
+        "equivalencia": ""
+      }
+    },
+    "89206": {
+      "nome": "CÁLCULO 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "3",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "82210 OU 89109 OU 344001 OU 524034 OU 344001 OU 342009 OU 342211 OU 340456 OU 341258 OU (82619 E 82627) OU (215171 E 215287) OU (215287 E 215384)",
+        "corequisitos": "-",
+        "dispensa": "82260 OU 342076 OU 342220 OU 342475 OU (524042 OU 345997)",
+        "equivalencia": "-"
+      }
+    },
+    "89303": {
+      "nome": "CÁLCULO 3",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "3",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "82260 OU 89206 OU 342076 OU 342220 OU 342475 OU 524042 OU 82635",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": "82236"
+      }
+    },
+    "89400": {
+      "nome": "SÉRIES E EQUAÇÕES DIFERENCIAIS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "1",
+        "creditosTeoria": "3",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "82210 OU 89109 OU 344001 OU 524034 OU 344001 OU 342009 OU 342211 OU 340456 OU 341258 OU (82619 E 82627) OU (215171 E 215287) OU (215287 E 215384)",
+        "corequisitos": "-",
+        "dispensa": "82244 E 82260",
+        "equivalencia": "-"
+      }
+    },
+    "91103": {
+      "nome": "FISICA EXPERIMENTAL A",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "-",
+        "corequisitos": "-",
+        "dispensa": "(215295 E 215511)",
+        "equivalencia": "(91928 OU 91936)"
+      }
+    },
+    "91111": {
+      "nome": "FISICA EXPERIMENTAL B",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "-",
+        "corequisitos": "-",
+        "dispensa": "(210030 E 210277) OU 96130",
+        "equivalencia": "-"
+      }
+    },
+    "99015": {
+      "nome": "FISICA 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "342092 OU 98108 OU 98019 OU 520136 OU 520098",
+        "equivalencia": "(90018 OU 24023 OU 98019 OU 98051)"
+      }
+    },
+    "99031": {
+      "nome": "FÍSICA 3",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "99015 OU 520136 OU 98108 OU 90018 OU 24023 OU 98019 OU 98051 OU 342092 OU 520098",
+        "corequisitos": "",
+        "dispensa": "98116",
+        "equivalencia": "90034 OU 98035"
+      }
+    },
+    "150010": {
+      "nome": "PROBABILIDADE E ESTATISTICA",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "(150037 E 152080) OU (151017 E 151068 E 152030 E 151106 E 152048)",
+        "equivalencia": "23000 OU (111015 E 111023) OU (23205 E 23116 E 23140) OU (111120 E 111082) OU 221171 OU 152056"
+      }
+    },
+    "201006": {
+      "nome": "INTRODUÇÃO À LINGUA BRASILEIRA DE SINAIS - LIBRAS I",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "2"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1000975": {
+      "nome": "SEMINÁRIOS DE MATEMÁTICA E DE COMPUTAÇÃO",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "2"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001336": {
+      "nome": "INTELIGÊNCIA ARTIFICIAL",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001502 OU 1001163",
+        "corequisitos": "",
+        "dispensa": "22705",
+        "equivalencia": ""
+      }
+    },
+    "1001337": {
+      "nome": "DESENVOLVIMENTO MÓVEL",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001543",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001343": {
+      "nome": "METODOLOGIA CIENTÍFICA",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001344": {
+      "nome": "SEMINÁRIOS 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "2"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001346": {
+      "nome": "OTIMIZAÇÃO MATEMÁTICA",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "89206 OU 1001163",
+        "corequisitos": "",
+        "dispensa": "23582",
+        "equivalencia": ""
+      }
+    },
+    "1001347": {
+      "nome": "SISTEMAS DINÂMICOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "89400 E 99015",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001348": {
+      "nome": "CONTROLE 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001347",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001349": {
+      "nome": "INTRODUÇÃO AO PENSAMENTO ALGORÍTMICO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "2"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "20001 OU 25003",
+        "equivalencia": ""
+      }
+    },
+    "1001350": {
+      "nome": "CONSTRUÇÃO DE ALGORITMOS E PROGRAMAÇÃO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "8"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "25070",
+        "equivalencia": ""
+      }
+    },
+    "1001351": {
+      "nome": "LÓGICA DIGITAL",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "(24376 OU 482110 OU 1001107) E (24384 OU 1000605)",
+        "equivalencia": ""
+      }
+    },
+    "1001352": {
+      "nome": "CIRCUITOS ELÉTRICOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "89400",
+        "corequisitos": "",
+        "dispensa": "27340",
+        "equivalencia": ""
+      }
+    },
+    "1001369": {
+      "nome": "SEMINÁRIOS 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "2"
+      },
+      "relacoes": {
+        "requisitos": "1001344 OU 25003",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001480": {
+      "nome": "PROCESSAMENTO DIGITAL DE IMAGENS 3D E VÍDEOS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001527",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001483": {
+      "nome": "PROGRAMAÇÃO PARALELA E DISTRIBUÍDA",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001535 OU (21270 E 21288)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001485": {
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "6",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001506",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001486": {
+      "nome": "PROCESSAMENTO DE SINAIS DIGITAIS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "82210 E 81116 E 80136 E (1001350 OU 25070)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001487": {
+      "nome": "ORGANIZAÇÃO E RECUPERAÇÃO DE INFORMAÇÃO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001502 OU 25208",
+        "corequisitos": "",
+        "dispensa": "22667",
+        "equivalencia": ""
+      }
+    },
+    "1001490": {
+      "nome": "ALGORITMOS E ESTRUTURAS DE DADOS 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001502 OU 1001163 OU 25208",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001493": {
+      "nome": "BANCO DE DADOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001502 OU 1001163 OU 25208",
+        "corequisitos": "",
+        "dispensa": "25216",
+        "equivalencia": ""
+      }
+    },
+    "1001497": {
+      "nome": "CONSTRUÇÃO DE COMPILADORES",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(1001510 OU 20265) E (1001350 OU 25070)",
+        "corequisitos": "",
+        "dispensa": "21130",
+        "equivalencia": ""
+      }
+    },
+    "1001498": {
+      "nome": "PROJETO DE MANUFATURA ASSISTIDO POR COMPUTADOR",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "81116",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001499": {
+      "nome": "INTRODUÇÃO À COMPUTAÇÃO MUSICAL",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001500": {
+      "nome": "MATEMÁTICA DISCRETA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "(20281 OU 480223) E 20346",
+        "equivalencia": ""
+      }
+    },
+    "1001501": {
+      "nome": "INTRODUÇÃO À PROGRAMAÇÃO DE ROBÔS MÓVEIS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "80136 E 81116 E (150010 OU 152056)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001502": {
+      "nome": "ALGORITMOS E ESTRUTURAS DE DADOS 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001350 OU 25070 OU 1001163",
+        "corequisitos": "",
+        "dispensa": "25208",
+        "equivalencia": ""
+      }
+    },
+    "1001503": {
+      "nome": "SISTEMAS DISTRIBUÍDOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001535 OU 21270",
+        "corequisitos": "",
+        "dispensa": "25321",
+        "equivalencia": ""
+      }
+    },
+    "1001504": {
+      "nome": "REDES DE COMPUTADORES",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001535 OU 21270",
+        "corequisitos": "",
+        "dispensa": "21237",
+        "equivalencia": ""
+      }
+    },
+    "1001505": {
+      "nome": "TECNOLOGIA DE COMUNICAÇÃO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001535 OU 21270",
+        "corequisitos": "",
+        "dispensa": "27430",
+        "equivalencia": ""
+      }
+    },
+    "1001506": {
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "2"
+      },
+      "relacoes": {
+        "requisitos": "1001343 OU 29009",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001507": {
+      "nome": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001350 OU 25070",
+        "corequisitos": "",
+        "dispensa": "25020",
+        "equivalencia": ""
+      }
+    },
+    "1001508": {
+      "nome": "INTERAÇÃO HUMANO-COMPUTADOR",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001350 OU 25070",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001509": {
+      "nome": "ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "1",
+        "creditosPraticaCurricular": "2",
+        "totalCreditos": "0"
+      },
+      "relacoes": {
+        "requisitos": "e 200 Créditos da ",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001510": {
+      "nome": "TEORIA DA COMPUTAÇÃO",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001500",
+        "corequisitos": "",
+        "dispensa": "20265",
+        "equivalencia": ""
+      }
+    },
+    "1001511": {
+      "nome": "PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001525 OU 25089",
+        "corequisitos": "",
+        "dispensa": "25097",
+        "equivalencia": ""
+      }
+    },
+    "1001512": {
+      "nome": "BANCO DE DADOS PARA CIÊNCIA DE DADOS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001546",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001513": {
+      "nome": "APRENDIZAGEM MÁQUINA 2",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001524",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001514": {
+      "nome": "PROCESSAMENTO E VISUALIZAÇÃO DE DADOS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001536 OU 1001119",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001515": {
+      "nome": "PROCESSAMENTO DE DADOS EM ESCALA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001535 OU (21270 E 21288)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001516": {
+      "nome": "ENGENHARIA DE SOFTWARE 2",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001530 OU 25607",
+        "corequisitos": "",
+        "dispensa": "25666",
+        "equivalencia": ""
+      }
+    },
+    "1001517": {
+      "nome": "CONTROLE AVANÇADO",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001534",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001518": {
+      "nome": "PROTOTIPAÇÃO DE SISTEMAS DIGITAIS/ANALÓGICOS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001528",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001519": {
+      "nome": "SISTEMAS DE INTEGRAÇÃO E AUTOMAÇÃO INDUSTRIAL",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "3",
+        "creditosTeoria": "1",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001348 OU (27200 E 27219)",
+        "corequisitos": "",
+        "dispensa": "27294",
+        "equivalencia": ""
+      }
+    },
+    "1001520": {
+      "nome": "SEGURANÇA CIBERNÉTICA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(1001535 OU (21270 E 21288)) E (1001540 OU 27359)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001521": {
+      "nome": "PROGRAMAÇÃO ORIENTADA A OBJETOS AVANÇADA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(1001502 OU 25208) E (1001507 OU 25020)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001522": {
+      "nome": "MANIPULADORES ROBÓTICOS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "80136 E 81116 E 82210",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001524": {
+      "nome": "APRENDIZADO MÁQUINA 1",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(1001336 OU 22705) E (150010 OU 152056)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001525": {
+      "nome": "PROJETO E ANÁLISE DE ALGORITMOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001502 OU 1001163 OU 25208",
+        "corequisitos": "",
+        "dispensa": "25089",
+        "equivalencia": ""
+      }
+    },
+    "1001526": {
+      "nome": "ARQUITETURA DE SOFTWARE E PADRÕES",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001516 OU 25666",
+        "corequisitos": "",
+        "dispensa": "25674",
+        "equivalencia": ""
+      }
+    },
+    "1001527": {
+      "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(1001350 OU 25070) E (82210 OU 89109) E 81116",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001528": {
+      "nome": "CIRCUITOS ELETRÔNICOS 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001533 OU 24171",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001529": {
+      "nome": "LÓGICA MATEMÁTICA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "20338 OU 343110 OU 480118 OU 1001108",
+        "equivalencia": ""
+      }
+    },
+    "1001530": {
+      "nome": "ENGENHARIA DE SOFTWARE 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001507 OU 25020",
+        "corequisitos": "",
+        "dispensa": "25607",
+        "equivalencia": ""
+      }
+    },
+    "1001532": {
+      "nome": "VISÃO COMPUTACIONAL",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001486 OU (80136 E 1001527)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001533": {
+      "nome": "CIRCUITOS ELETRÔNICOS 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001352 OU 27340",
+        "corequisitos": "",
+        "dispensa": "24171 E 24180",
+        "equivalencia": ""
+      }
+    },
+    "1001534": {
+      "nome": "CONTROLE 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001348 OU 27200",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001535": {
+      "nome": "SISTEMAS OPERACIONAIS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001540 OU 27359",
+        "corequisitos": "",
+        "dispensa": "21270 E 21288",
+        "equivalencia": ""
+      }
+    },
+    "1001536": {
+      "nome": "COMPUTAÇÃO GRÁFICA",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(81116 OU 81515 OU 1001234) E (1001502 OU 25208 OU 1001163)",
+        "corequisitos": "",
+        "dispensa": "1001119",
+        "equivalencia": ""
+      }
+    },
+    "1001537": {
+      "nome": "ARQUITETURAS DE ALTO DESEMPENHO",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001540 OU 27359",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001538": {
+      "nome": "PROJETO DE SISTEMAS COMPUTACIONAIS EMBARCADOS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "(1001541 OU 27375) E 1001545",
+        "corequisitos": "",
+        "dispensa": "27278",
+        "equivalencia": ""
+      }
+    },
+    "1001539": {
+      "nome": "SISTEMAS DIGITAIS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001351 OU (24376 E 24384)",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001540": {
+      "nome": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES 1",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "6"
+      },
+      "relacoes": {
+        "requisitos": "1001351 OU (24376 E 24384) OU (1001107 E 1000605)",
+        "corequisitos": "",
+        "dispensa": "27359 E 27367",
+        "equivalencia": ""
+      }
+    },
+    "1001541": {
+      "nome": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES 2",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001540 OU 27359",
+        "corequisitos": "",
+        "dispensa": "27375",
+        "equivalencia": ""
+      }
+    },
+    "1001542": {
+      "nome": "DESENVOLVIMENTO DE SOFTWARE PARA WEB 1",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001493 OU 25216",
+        "corequisitos": "",
+        "dispensa": "20680",
+        "equivalencia": ""
+      }
+    },
+    "1001543": {
+      "nome": "DESENVOLVIMENTO DE SOFTWARE PARA WEB 2",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001542 OU 20680",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001544": {
+      "nome": "DEVOPS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "4",
+        "creditosTeoria": "0",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001516 OU 25666",
+        "corequisitos": "",
+        "dispensa": "25593",
+        "equivalencia": ""
+      }
+    },
+    "1001545": {
+      "nome": "ENGENHARIA DE SISTEMAS",
+      "tipo": "OBRIGATORIAS",
+      "creditos": {
+        "creditosPratica": "0",
+        "creditosTeoria": "4",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001530 OU 25607",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001546": {
+      "nome": "PROJETO E IMPLEMENTAÇÃO DE BANCO DE DADOS",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "1001493 OU 25216",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    },
+    "1001680": {
+      "nome": "CROSSCULTURAL COMMUNICATION FOR INTERNATIONALIZATION - COMUNICAÇÃO INTERCULTURAL PARA INTERNACIONALIZAÇÃO",
+      "tipo": "OPTATIVAS",
+      "creditos": {
+        "creditosPratica": "2",
+        "creditosTeoria": "2",
+        "creditosDistancia": "0",
+        "creditosEstudo": "0",
+        "creditosPesquisa": "0",
+        "creditosEstagio": "0",
+        "creditosPraticaCurricular": "0",
+        "totalCreditos": "4"
+      },
+      "relacoes": {
+        "requisitos": "",
+        "corequisitos": "",
+        "dispensa": "",
+        "equivalencia": ""
+      }
+    }
+  }
+}
