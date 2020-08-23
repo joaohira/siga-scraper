@@ -16,7 +16,7 @@
     "curricular"
   ],
   "author": "João Hirasawa",
-  "license": "GPL-3.0-or-later",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/joaohira/siga-scraper/issues"
   },
